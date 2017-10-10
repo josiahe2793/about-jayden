@@ -1,27 +1,27 @@
-Jayden Weston
+##Jayden Weston
 
-Student
+####_Student_
 
-High School of Telecommunication Arts and Technology
+###_High School of Telecommunication Arts and Technology_###
 
-jaydenw4157@hstat.org
+[jaydenw4157@hstat.org](https://sites.google.com/a/hstat.org/jaydenw4157sep11/)
 
-I have lived in Park Slope since I was born. I've been learning about computer science since middle school
+_I have lived in Park Slope since I was born. I've been learning about computer science since middle school_
 
-Schedule:
+##Schedule:
 
-1: English-5
+1: _English-5_
 
-2: SEP-11
+2: _SEP-11_
 
-3: Physics
+3: _Physics_
 
-4: U.S-History
+4: _U.S-History_
 
-5: Algebra-2/Trig
+5: _Algebra-2/Trig_
 
-6: Gym
+6: _Gym_
 
-7: Lunch
+7: _Lunch_
 
-8: Spanish-5
+8: _Spanish-5_
