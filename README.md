@@ -13,6 +13,7 @@ _I have lived in Park Slope since I was born. I've been learning about computer 
 * Watching TV
 * Drawing
 * Playing videogames
+* Aggressive expansion
 
 ## **Schedule:**
 
