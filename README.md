@@ -1,4 +1,5 @@
 # **Jayden Weston**
+___
 
 #### _Student_
 
@@ -6,22 +7,29 @@
 
 [jaydenw4157@hstat.org](https://sites.google.com/a/hstat.org/jaydenw4157sep11/)
 
-_I have lived in Park Slope since I was born. I've been learning about computer science since middle school_
+_I have lived in Park Slope since I was born. I've been learning about computer science since middle school. Some of my hobbies are:_
 
-## Schedule:
 
-1: _English-5_
+* Watching TV
+* Drawing
+* Playing videogames
 
-2: _SEP-11_
+## **Schedule:**
 
-3: _Physics_
+___
 
-4: _U.S-History_
+1. _English-5_
 
-5: _Algebra-2/Trig_
+2.  _SEP-11_
+  
+3. _Physics_
 
-6: _Gym_
+4. _U.S-History_
 
-7: _Lunch_
+5. _Algebra-2/Trig_
 
-8: _Spanish-5_
+6. _Gym_
+
+7. _Lunch_
+
+8. _Spanish-5_
